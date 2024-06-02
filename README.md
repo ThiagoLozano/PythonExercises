@@ -1,5 +1,5 @@
 # Project: Exercicios Python
-O projeto tem como objetivo resolver os exercícios estabelecidos pela plataforma Python Brasil.
+O projeto tem como objetivo resolver os exercícios estabelecidos pela plataforma Python Brasil. (https://wiki.python.org.br/ListaDeExercicios)
 
 ## Índice
 
