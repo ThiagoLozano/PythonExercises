@@ -17,7 +17,7 @@ def main():
         case "N":
             print("Boa Noite!")
         case _:
-            print("Informação de turno inválida!")
+            print("Valor Inválido!")
 
 if __name__ == "__main__":
     main()
